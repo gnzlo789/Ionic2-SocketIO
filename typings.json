@@ -1,0 +1,10 @@
+{
+  "dependencies": {},
+  "devDependencies": {},
+  "globalDependencies": {
+    "es6-shim": "registry:dt/es6-shim#0.31.2+20160602141504",
+	"node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts",
+	"socket.io": "github:DefinitelyTyped/DefinitelyTyped/socket.io/socket.io.d.ts",
+    "socket.io-client": "github:DefinitelyTyped/DefinitelyTyped/socket.io-client/socket.io-client.d.ts"
+  }
+}
